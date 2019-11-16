@@ -106,7 +106,22 @@ const Actions = [{
     }]
   },
   {
-    lifeTime: 180,
+    lifeTime: 200,
+    texts: [{
+        text: '宝',
+        hsla: color2
+      },{
+        text: '宝',
+        hsla: color2
+      },
+      {
+        text: ' ❤️ ',
+        hsla: color3
+      },
+    ]
+  },
+  {
+    lifeTime: 3000,
     texts: [{
         text: 'I',
         hsla: color2
